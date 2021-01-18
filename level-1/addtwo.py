@@ -1,3 +1,5 @@
+# https://programmers.co.kr/learn/courses/30/lessons/68644
+
 def main():
     numbers = [2, 1, 3, 4, 1]
     presult = [2, 3, 4, 5, 6, 7]
